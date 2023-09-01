@@ -8,9 +8,9 @@ environment:
 
 dependencies:
   charset_converter: ^2.0.0
-  esc_pos_utils:
-    publish_to:
-      url: 'https://github.com/HamadHadi/esc_pos_utils.git'
+  # esc_pos_utils:
+  #   publish_to:
+  #     url: 'https://github.com/HamadHadi/esc_pos_utils.git'
   flutter:
     sdk: flutter
   # esc_pos_utils:
